@@ -1,0 +1,88 @@
+{
+    "comics": {
+        "spiderman1": {
+            "name": "Spider-Man #1",
+            "series": "Spider-Man (1990)",
+            "info": "First issue in self-titled series. Classic Spider-Man cover",
+            "cover": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImJiM2IwNmJlLWY4ZGUtNDY1Yi05YjlmLTUxOGI2YjQwODk0MS5qcGciLCJlZGl0cyI6W119"
+        }, 
+        "spiderman24": {
+            "name": "Spider-Man #24",
+            "series": "Spider-Man (1990)",
+            "info": "1st cover appearance and 2nd full appearance of Doppelganger Spider-Man",
+            "cover": "https://cdn.keycollectorcomics.com/media/b1593548592360asmspbagw24.png?width=270"
+        },
+        "spiderman35": {
+            "name": "Spider-Man #35",
+            "series": "Spider-Man (1990)",
+            "info": "1st cover appearance of Shriek",
+            "cover": "https://cdn.keycollectorcomics.com/media/bspiderman_35mc.jpg?width=270"
+        },
+        "spiderman47": {
+            "name": "Spider-Man #47",
+            "series": "Spider-Man (1990)",
+            "info": "1st appearance of the Grim Hunter, Vladimir Kravinoff, the son of Kraven the Hunter",
+            "cover": "https://cdn.keycollectorcomics.com/media/spider-man_47.jpg?width=270"
+        },
+        "spiderman49": {
+            "name": "Spider-Man #49",
+            "series": "Spider-Man (1990)",
+            "info": "1st appearance of Coldheart, a mother avenging her son who was accidentally killed by superheroes",
+            "cover": "https://cdn.keycollectorcomics.com/media/bspiderman_49_1994_aug.jpg?width=270"
+        },
+        "spiderman52": {
+            "name": "Spider-Man #52",
+            "series": "Spider-Man (1990)",
+            "info": "2nd appearance of Ben Reilly as the Scarlet Spider and first mention of the name Scarlet Spider (said by a reporter)",
+            "cover": "https://i.annihil.us/u/prod/marvel/i/mg/4/30/575b339a8b399/clean.jpg"
+        },
+        "spiderman76": {
+            "name": "Spider-Man #76",
+            "series": "Spider-Man (1990)",
+            "info": "1st appearance of Loxias Crown, later known as The Hunger. [March 2022 - The Hunger is the villain in the Morbius movie, played by Matt Smith]",
+            "cover": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6IjIzYzUxN2YwLTFlN2UtNDUwNC04NTM0LWQ0OWExYTgzNGEwZi5qcGciLCJlZGl0cyI6W119"
+        },
+        "detectivecomics359": {
+            "name": "Detective Comics #359",
+            "series": "Detective Comics (1937)",
+            "info": "1st appearance, cover and origin of Batgirl, Barbara Gordon. 1st appearance of Killer Moth in the Silver Age. [March 2022 - Leslie Grace cast as Batgirl for Batgirl Movie]",
+            "cover": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6Ijk0MmQwYWQ5LTlhMTMtNDc4ZC05MTRhLTQxOGZhMWY3MDU5My5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjMwMH19fQ=="
+        },
+        "batman133": {
+            "name": "Batman #133",
+            "series": "Batman (1940)",
+            "info": "1st appearance of Kite-Man. 3rd appearance of Bat-Mite. [April 2022 - Kite-Man animated series planned for HBO Max. With Kite-Man cameoing in Peacemaer and being a main character in Harley Quinn, he will most likely be a more prominent character in DC]",
+            "cover": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6IjgzNzMwMjMxLWFkODEtNDJlMC1hYjg3LThkNzExN2NhYzRhMC5qcGciLCJlZGl0cyI6W119"
+        },
+        "superiorIronMan1": {
+            "name": "Superior Iron Man #1",
+            "series": "Superior Iron Man (2015)",
+            "info": "1st appearance and 1st issue of Superior Iron Man. [April 2022 - Doctor Strange in the Multiverse of Madness spec that an unknown character flying could be an Iron Man variant or Superior Iron Man. Tom Cruise rumored to play Superior Iron Man in Doctor Strange in the Multiverse of Madness]",
+            "cover": "https://i.annihil.us/u/prod/marvel/i/mg/f/90/59c406cfbc7ce/clean.jpg"
+        },
+        "flash141": {
+            "name": "Flash #141",
+            "series": "Flash (1987)",
+            "info": "1st full appearance of the Black Flash. [April 2022 - Black Flash rumored to be the main villain in the Flash movie]",
+            "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7603596.jpg?1616609546"
+        },
+        "thorAnnual11": {
+            "name": "Thor Annual #11",
+            "series": "Journey Into Mystery (1962)",
+            "info": "1st appearance of Eitri, who created Stormbreaker. [April 2022 - Peter Dinklage teases his return as Eitri in Thor: Love and Thunder]",
+            "cover": "https://i.annihil.us/u/prod/marvel/i/mg/2/30/5c93baccc86ca/clean.jpg"
+        },
+        "incredibleHulk93": {
+            "name": "Incredible Hulk #93",
+            "series": "Incredible Hulk (1999)",
+            "info": "1st appearance of Korg. [April 2022 - Korg confirmed to return in Thor: Love and Thunder]",
+            "cover": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImVmYzJjZmJmLTQ2NDAtNDlkMC1hY2E3LTMzYzY5ZDJkN2Y2OC5qcGciLCJlZGl0cyI6W119"
+        },
+        "thor2": {
+            "name": "Thor #2",
+            "series": "Thor (2014)",
+            "info": "1st full appearance of Jane Foster as Thor. [April 2022 - Jane Foster confirmed to return in Thor: Love and Thunder]",
+            "cover": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6IjU4MzY0MjFmLTk3ZDUtNDI4Ny1iMmIyLWNhMGQwMGFlM2JkNy5qcGciLCJlZGl0cyI6W119"
+        }
+    }
+}
