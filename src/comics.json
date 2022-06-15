@@ -1,5 +1,11 @@
 {
     "comics": {
+        "amazingSpiderman102": {
+            "name": "Spider-Man #102",
+            "series": "Spider-Man (1963)",
+            "info": "Second apperance and Origin of Morbius. [April 2022 - With the huge success of Morbius, the future of Morbius in movies is looking bright]",
+            "cover": "https://i.annihil.us/u/prod/marvel/i/mg/9/c0/57b2235e9d6ed/clean.jpg"
+        }, 
         "spiderman1": {
             "name": "Spider-Man #1",
             "series": "Spider-Man (1990)",
@@ -39,8 +45,14 @@
         "spiderman76": {
             "name": "Spider-Man #76",
             "series": "Spider-Man (1990)",
-            "info": "1st appearance of Loxias Crown, later known as The Hunger. [March 2022 - The Hunger is the villain in the Morbius movie, played by Matt Smith]",
+            "info": "1st appearance of Loxias Crown, later known as The Hunger.",
             "cover": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6IjIzYzUxN2YwLTFlN2UtNDUwNC04NTM0LWQ0OWExYTgzNGEwZi5qcGciLCJlZGl0cyI6W119"
+        },
+        "amazingSpiderman389": {
+            "name": "the Amazing Spider-Man #389",
+            "series": "the Amazing Spider-Man (1963)",
+            "info": "Origin of the Chameleon and the abusive relationship he had with Kraven. [May 2022 - Chameleon rumored to be the villain of the Kraven movie]",
+            "cover": "https://i.annihil.us/u/prod/marvel/i/mg/c/00/52615ecbdd04f/clean.jpg"
         },
         "detectivecomics359": {
             "name": "Detective Comics #359",
@@ -54,10 +66,16 @@
             "info": "1st appearance of Kite-Man. 3rd appearance of Bat-Mite. [April 2022 - Kite-Man animated series planned for HBO Max. With Kite-Man cameoing in Peacemaer and being a main character in Harley Quinn, he will most likely be a more prominent character in DC]",
             "cover": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6IjgzNzMwMjMxLWFkODEtNDJlMC1hYjg3LThkNzExN2NhYzRhMC5qcGciLCJlZGl0cyI6W119"
         },
+        "infiniteCrisis5": {
+            "name": "Infinite Crisis #5",
+            "series": "Infinite Crisis (2006)",
+            "info": "1st appearance of Jaime Reyes as Blue Beetle. [May 2022 - Xolo Maridueña cast as Jaime Reyes in Blue Beetle]",
+            "cover": "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2018/06/infinitecrisis_5_5b29464dbd2b78.56303867.jpg?itok=JQSKJVy3"
+        },
         "superiorIronMan1": {
             "name": "Superior Iron Man #1",
             "series": "Superior Iron Man (2015)",
-            "info": "1st appearance and 1st issue of Superior Iron Man. [April 2022 - Doctor Strange in the Multiverse of Madness spec that an unknown character flying could be an Iron Man variant or Superior Iron Man. Tom Cruise rumored to play Superior Iron Man in Doctor Strange in the Multiverse of Madness]",
+            "info": "1st appearance and 1st issue of Superior Iron Man. [May 2022 - Although Superior Iron Man was not in Doctor Strange in the Multiverse of Madness, he very well could be in the future. They casted John Krasinski because of fan request, so I could imagine the same happening for Tom Cruise]",
             "cover": "https://i.annihil.us/u/prod/marvel/i/mg/f/90/59c406cfbc7ce/clean.jpg"
         },
         "flash141": {
@@ -72,17 +90,29 @@
             "info": "1st appearance of Eitri, who created Stormbreaker. [April 2022 - Peter Dinklage teases his return as Eitri in Thor: Love and Thunder]",
             "cover": "https://i.annihil.us/u/prod/marvel/i/mg/2/30/5c93baccc86ca/clean.jpg"
         },
+        "incredibleHulk449": {
+            "name": "Incredible Hulk #449",
+            "series": "Incredible Hulk (1962)",
+            "info": "1st appearance of The Thunderbolts. [June 2022 - Director Jake Schreier announced as director to a Thunderbolts project]",
+            "cover": "https://i.annihil.us/u/prod/marvel/i/mg/9/60/50b3d6d681fa7/clean.jpg"
+        },
         "incredibleHulk93": {
             "name": "Incredible Hulk #93",
             "series": "Incredible Hulk (1999)",
             "info": "1st appearance of Korg. [April 2022 - Korg confirmed to return in Thor: Love and Thunder]",
             "cover": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6ImVmYzJjZmJmLTQ2NDAtNDlkMC1hY2E3LTMzYzY5ZDJkN2Y2OC5qcGciLCJlZGl0cyI6W119"
         },
-        "thor2": {
-            "name": "Thor #2",
-            "series": "Thor (2014)",
-            "info": "1st full appearance of Jane Foster as Thor. [April 2022 - Jane Foster confirmed to return in Thor: Love and Thunder]",
-            "cover": "https://img.gocollect.com/eyJidWNrZXQiOiJnb2NvbGxlY3QuaW1hZ2VzLnB1YiIsImtleSI6IjU4MzY0MjFmLTk3ZDUtNDI4Ny1iMmIyLWNhMGQwMGFlM2JkNy5qcGciLCJlZGl0cyI6W119"
+        "morbius1": {
+            "name": "Morbius: The Living Vampire #1",
+            "series": "Morbius: The Living Vampire (1992)",
+            "info": "First solo Morbius title.",
+            "cover": "https://i.annihil.us/u/prod/marvel/i/mg/f/00/5cbf2ca0d95f1/clean.jpg"
+        },
+        "thunderstrike1": {
+            "name": "Thunderstrike #1",
+            "series": "Thunderstrike (1993)",
+            "info": "First solo Thunderstrike title. [June 2022 - Thunderstrike rumored for Thor: Love and Thunder]",
+            "cover": "https://i.annihil.us/u/prod/marvel/i/mg/c/70/5cd43434cfec7/clean.jpg"
         }
     }
 }

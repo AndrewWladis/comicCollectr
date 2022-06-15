@@ -1,49 +1,34 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-const getPrices = async () => {
-	try {
-		const response = await axios.get('https://old.reddit.com/r/DunderMifflin/');
+function getPrice(comic, number) {
+    comic.split(' ')
+    for (let i = 0; i < comic.length) {
+        
+    }
+    if (comic[i] != '+') {
 
-        const html = response.data;
-
-		const $ = cheerio.load(html);
-
-		const titles = [];
-
-		$('div > p.title > a').each((_idx, el) => {
-			const title = $(el).text()
-			titles.push(title)
-		});
-
-		return titles;
-	} catch (error) {
-		throw error;
-	}
-};
-
-getPrices().then((titles) => console.log(titles));
-/*import puppeteer from 'puppeteer-web';
-
-function getPrice(title, number) {
-    (async () => {
-        const browser = await puppeteer.launch();
-        const page = await browser.newPage();
+    }
+    const getPostTitles = async () => {
+        try {
+            const { data } = await axios.get(
+                `https://www.mycomicshop.com/search?q=The+Flash+${number}&pubid=&PubRng=`
+            );
+            const $ = cheerio.load(data);
+            const postTitles = [];
     
-        await page.goto(`https://www.mycomicshop.com/search?q=${title}+${number}&pubid=&PubRng=`);
-        console.log('await is working')
-        const mycomictext = await page.$eval('.hasscan', (el) => el.innerText);
-        console.log(mycomictext)
+            postTitles.push($('.hasscan'))
     
-        await page.goto(`https://www.midtowncomics.com/search?rel=&cfr=t&cat=&q=${title}+${number}`);
-        console.log('await is working')
-        const midtownText = await page.$eval('.pc-discounted', (el) => el.innerText);
-        console.log(midtownText)
-        await browser.close();
+            return postTitles;
+        } catch (error) {
+            throw error;
+        }
+    };
     
-        let newPrice = Number(midtownText.split("$").pop()) + Number(mycomictext.split("$").pop());
-        return newPrice/2;
-    })();
-}*/
+    let price = getPostTitles()
+    .then((postTitles) => console.log(postTitles));
+    return price
+}
+
 
 export default getPrice()

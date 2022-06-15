@@ -1,0 +1,18 @@
+{
+    "theme": {
+        "batman": {
+            "background": "#240202",
+            "text": "#ebe1a9",
+            "name": "batman",
+            "nav": "#a19f9f",
+            "body": "#e8e8e8"
+        },
+        "moonknight": {
+            "background": "#240202",
+            "text": "#ebe1a9",
+            "name": "moonknight",
+            "nav": "#a19f9f",
+            "body": "#e8e8e8"
+        }
+    }
+}
