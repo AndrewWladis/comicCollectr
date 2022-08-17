@@ -20,13 +20,6 @@ function AndysPicks() {
         series={json.comics.incredibleHulk449.series}/>
         {/* Incredible Hulk 449 */}
 
-        <Comic name={json.comics.detectivecomics359.name} 
-        cover={json.comics.detectivecomics359.cover} 
-        info={json.comics.detectivecomics359.info} 
-        //price={getPrice(json.comics.detectivecomics359.series, '359')} 
-        series={json.comics.detectivecomics359.series}/>
-        {/* Detective Comics 359 */}
-
         <Comic name={json.comics.batman133.name} 
         cover={json.comics.batman133.cover} 
         info={json.comics.batman133.info} 

@@ -1,12 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
 
+@keyframes moonKnightFlash {
+    0% {opacity: 100%;}
+    5% {opacity: 0%;}
+    35% {opacity: 0%;}
+    40% {opacity: 100%;}
+    54% {opacity: 0%;}
+    68% {opacity: 100%;}
+    82% {opacity: 0%;}
+    96% {opacity: 100%;}
+    100% {opacity: 100%;}
+}
+
 :root {
     --cardtext: rgb(133, 170, 238);
     --navcolor: rgb(88, 136, 224);
+    --cardcolor: rgb(56, 56, 56);
+    --sectionheader: rgb(180, 184, 194);
+}
+
+body {
+    margin: 0;
+    background-color: rgb(22, 22, 22);
 }
 
 html {
     scroll-behavior: smooth;
+    background-color: black;
 }
 
 .cardTitle {
@@ -25,7 +45,7 @@ html {
     border-radius: 5%;
     max-width: 40vh;
     max-height: 25vh;
-    background-color: rgb(56, 56, 56);
+    background-color: var(--cardcolor);
     margin-bottom: 5%;
     margin-left: 1%;
     margin-right: 1%;
@@ -41,12 +61,6 @@ html {
 
 .info {
     font-size: 0.25vw;
-}
-
-.logoText {
-    font-family: 'Ubuntu', sans-serif;
-    color: var(--cardtext);
-    padding: 1%;
 }
 
 .navText {
@@ -66,9 +80,15 @@ html {
 
 .title {
     font-family: 'Ubuntu', sans-serif;
-    color:rgb(180, 184, 194);
+    color: var(--sectionheader);
     margin-bottom: 2%;
     margin-left: 2%;
+}
+
+#logoText {
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--cardtext);
+    padding: 1%;
 }
 
 #NavBar {
@@ -82,3 +102,4 @@ html {
     max-width: 100px;
     max-height: 100px;
 }
+

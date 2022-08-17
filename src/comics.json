@@ -113,6 +113,36 @@
             "series": "Thunderstrike (1993)",
             "info": "First solo Thunderstrike title. [June 2022 - Thunderstrike rumored for Thor: Love and Thunder]",
             "cover": "https://i.annihil.us/u/prod/marvel/i/mg/c/70/5cd43434cfec7/clean.jpg"
+        },
+        "captainAmerica25": {
+            "name": "Captain America #25",
+            "series": "Captain America (2013)",
+            "info": "First apperance of Sam Wilson as Captain America",
+            "cover": "https://i.annihil.us/u/prod/marvel/i/mg/c/c0/541c8c8df1fe5/clean.jpg"
+        },
+        "captainAmericaSamWilson3": {
+            "name": "Captain America: Sam Wilson #3",
+            "series": "Captain America (2015)",
+            "info": "1st appearance of Joaquin Torres.",
+            "cover": "https://i.annihil.us/u/prod/marvel/i/mg/3/50/5644baa569252/clean.jpg"
+        },
+        "aquaman1": {
+            "name": "Aquaman #1",
+            "series": "Aquaman (2011)",
+            "info": "1st appearance of the Trench creatures.",
+            "cover": "https://cdn.keycollectorcomics.com/media/aquamanvol._5_1.jpg?auto_optimize=high"
+        },
+        "aquaman2": {
+            "name": "Aquaman #2",
+            "series": "Aquaman (2011)",
+            "info": "1st appearance of the Trench King and 1st cameo appearance of Dr. Stephen Shin.",
+            "cover": "https://cdn.keycollectorcomics.com/media/aquaman_v_7_2.jpg?auto_optimize=high"
+        },
+        "aquaman3": {
+            "name": "Aquaman #3",
+            "series": "Aquaman (2011)",
+            "info": "1st full appearance of Dr. Stephen Shin.",
+            "cover": "https://cdn.keycollectorcomics.com/media/b1632521768569aquaman_3.jpg?auto_optimize=high"
         }
     }
 }

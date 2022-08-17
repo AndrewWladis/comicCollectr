@@ -2,17 +2,21 @@
     "theme": {
         "batman": {
             "background": "#240202",
-            "text": "#ebe1a9",
+            "text": "rgb(133, 170, 238)",
             "name": "batman",
-            "nav": "#a19f9f",
-            "body": "#e8e8e8"
+            "nav": "black",
+            "body": "rgb(22, 22, 22)",
+            "card": "rgb(56, 56, 56)",
+            "header": "rgb(88, 136, 224)"
         },
         "moonknight": {
-            "background": "#240202",
-            "text": "#ebe1a9",
+            "background": "#171717",
+            "text": "#171717",
             "name": "moonknight",
-            "nav": "#a19f9f",
-            "body": "#e8e8e8"
+            "nav": "rgb(131, 131, 131)",
+            "body": "#a19f9f",
+            "card": "#e8e8e8",
+            "header": "#feffd6"
         }
     }
 }

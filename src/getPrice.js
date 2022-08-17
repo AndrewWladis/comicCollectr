@@ -2,13 +2,18 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 
 function getPrice(comic, number) {
-    comic.split(' ')
-    for (let i = 0; i < comic.length) {
-        
-    }
-    if (comic[i] != '+') {
+    let comicWithPlus = comic;
+    console.log('comic with plus is ', comicWithPlus)
+    comicWithPlus.split(' ');
 
-    }
+    let i = 0;
+    do {
+        if (comic[i] != '+') {
+            comicWithPlus.splice(1, 0, 'Feb');
+        }
+        i++
+    } while (i < comicWithPlus.length);
+
     const getPostTitles = async () => {
         try {
             const { data } = await axios.get(

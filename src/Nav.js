@@ -7,7 +7,7 @@ import themeChange from './themeChange'
 function Nav() {
   return (
     <div id='NavBar'>
-        <h2 className="logoText">Ducky Comics</h2>
+        <h2 id="logoText">Ducky Comics</h2>
         <a className="navText" href="#andysPicks">
           <h3>Andy's Picks</h3> 
         </a>

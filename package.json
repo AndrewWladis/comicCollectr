@@ -12,6 +12,7 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.12",
     "cors": "^2.8.5",
     "env": "^0.0.2",
     "puppeteer": "^13.5.2",
