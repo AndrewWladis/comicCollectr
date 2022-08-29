@@ -63,12 +63,39 @@ html {
     font-size: 0.25vw;
 }
 
+.mustReadComicCard {
+    display: flex;
+    justify-content: center;
+    border-radius: 5%;
+    max-width: 75vh;
+    max-height: 40vh;
+    background-color: var(--cardcolor);
+    margin-bottom: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
 .navText {
     font-family: 'Ubuntu', sans-serif;
     color:  var(--navcolor);
     display: flex;
     align-items: center;
     text-decoration: none;
+}
+
+.recTextDecoration {
+    text-decoration: none;
+}
+
+.recTitle {
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--navcolor);
+    margin: 2%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
 }
 
 .sideImage {

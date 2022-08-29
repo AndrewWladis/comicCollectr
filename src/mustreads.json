@@ -1,0 +1,28 @@
+{
+    "comics": {
+        "one": {
+            "name": "Thor: The Saga of Gorr the God Butcher",
+            "info": "This comic is what I believe to be the best Thor comic of all time with what I think is the best Marvel villain of all time; Gorr the God Butcher. The movie did not do him justice. This collects Thor: God of Thunder #1-11.",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/51EFcawTxVL._SX323_BO1,204,203,200_.jpg",
+            "link": "https://www.amazon.com/Thor-Saga-Gorr-God-Butcher/dp/130294746X/ref=sr_1_1?crid=3ULGPO6G20HNV&keywords=gorr+the+god+butcher&qid=1661215625&sprefix=gorr+%2Caps%2C113&sr=8-1"
+        },
+        "two": {
+            "name": "Batman: Earth One",
+            "info": "This is my favorite Batman comic. It creatively reinvents tons of the classic Batman cast of characters. Its best character is easily Harvey Bullock. I won’t spoil it, but he is very different than he normally is in other Batman comics.",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/81aJt70OQoL.jpg",
+            "link": "https://www.amazon.com/Batman-Earth-One-Geoff-Johns/dp/1401232086?ref_=ast_sto_dp"
+        },
+        "three": {
+            "name": "Batman: The Dark Knight Returns",
+            "info": "This comic reinvented Batman. It made him into the dark icon he is now. It is not the best Batman comic, but it is definitely up there. This collects issues #1-4.",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/41PUo9ZBHmL._SX323_BO1,204,203,200_.jpg",
+            "link": "https://www.amazon.com/Batman-Dark-Knight-Returns-Anniversary/dp/1401263119?ref_=ast_sto_dp"
+        }, 
+        "four": {
+            "name": "Invincible Volume 3: Perfect Strangers",
+            "info": "The first chapter of Invincible comes to a close in this volume. This is where the season ends in the tv show and it has all the memes from it. Jokes aside, this is my favorite image comic ever. It has the classic Invincible vs Omni-Man fight and the Viltrumite reveal.",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/51tPs47mwXL._SX315_BO1,204,203,200_.jpg",
+            "link": "https://www.amazon.com/Invincible-Perfect-Strangers-Robert-Kirkman/dp/1582407932/ref=sr_1_5?crid=16CC5TR4WHSO1&keywords=invincible+comic&qid=1661219855&sprefix=inviun%2Caps%2C143&sr=8-5"
+        }
+    }
+}
