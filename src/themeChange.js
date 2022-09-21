@@ -21,10 +21,7 @@ function themeChange() {
                         document.getElementById('NavBar').style.backgroundColor = i.nav;
                         document.body.style.backgroundColor = i.body;
                         console.log('function to change theme works')
-
-                        if (i === themes.theme.moonknight) {
-                                document.getElementById('logoText').style.color = i.header;
-                        }
+                        document.getElementById('logoText').style.color = i.header;
 
                         document.body.style.animation = 'moonKnightFlash 0.75s';
                 }
